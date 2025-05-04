@@ -1,0 +1,14 @@
+# Configurações para o plugin ArmaduraDePedregulho
+
+weights:
+  helmet: 0.20       # Peso do capacete em relação ao total
+  chestplate: 0.40   # Peso do peitoral em relação ao total
+  leggings: 0.25     # Peso das calças em relação ao total
+  boots: 0.15        # Peso das botas em relação ao total
+
+# Configuração para o comportamento na água
+sink_when_overloaded: true    # Se true, o jogador afunda completamente ao usar armadura pesada
+sinking_speed: 0.1            # Velocidade de afundamento (quanto maior o valor, mais rápido o jogador afunda)
+
+# Configuração de desgaste adicional
+extra_durability_loss: 2      # Define o desgaste extra aplicado a cada peça de armadura ao sofrer dano

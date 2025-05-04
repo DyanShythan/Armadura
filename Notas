@@ -1,0 +1,46 @@
+Notas de Release
+Versão 1.0
+Novidades:
+
+Adição da Armadura de Pedregulho:
+Implementação completa das quatro peças da armadura: capacete, peitoral, calças e botas.
+A armadura tem um visual cinza escuro, semelhante à pedra das primeiras versões do jogo.
+Receitas de Crafting Personalizadas:
+Novas receitas de crafting utilizando pedregulho, seguindo o padrão das armaduras tradicionais.
+Proteção Personalizada:
+Cada peça oferece proteção equivalente a 1.8 pontos, ajustada através de encantamentos.
+Efeito de Peso na Água:
+Ao usar peças da armadura de pedregulho na água, o jogador sofrerá uma penalidade de movimento proporcional ao número de peças equipadas.
+Usar o conjunto completo impedirá o jogador de se mover na água.
+Correções:
+
+Ajuste nos modificadores de atributos para evitar conflitos com outros plugins.
+Correções nos métodos de identificação dos itens personalizados.
+Melhorias:
+
+Uso do PersistentDataContainer para marcar os itens de forma eficiente e segura.
+Mensagens de ativação do plugin no console, incluindo informações de versão e desenvolvedor.
+Instruções de Instalação
+Download:
+
+Baixe o arquivo .jar do plugin ArmaduraDePedregulho.
+Instalação:
+
+Coloque o arquivo .jar na pasta plugins do seu servidor Minecraft.
+Iniciar o Servidor:
+
+Inicie o servidor e verifique se o plugin foi carregado corretamente.
+Verificação:
+
+No console, você deverá ver uma mensagem indicando que o plugin foi ativado.
+Observações
+Compatibilidade:
+
+O plugin foi testado na versão 1.20 do Minecraft.
+Certifique-se de que seu servidor está executando uma versão compatível.
+Feedback:
+
+Se encontrar bugs ou tiver sugestões, por favor, entre em contato com o desenvolvedor.
+Créditos
+Desenvolvedor: DyanShythan  
+Contato: dyanshythan@hotmail.com

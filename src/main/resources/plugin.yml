@@ -1,0 +1,4 @@
+name: ArmaduraDePedregulho
+version: 1.0.1
+main: com.intiegames.divinecraft.armadurapedregulho.ArmaduraPedregulho
+api-version: 1.20
